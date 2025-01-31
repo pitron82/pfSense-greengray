@@ -1,5 +1,5 @@
 # pfSense-greengrey
-Theme greengrey v1.0 for pfSense 2.4.5
+Theme greengrey v1.1 for pfSense
 
 pkg install git
 
